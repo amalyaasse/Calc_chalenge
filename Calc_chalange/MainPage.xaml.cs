@@ -1,55 +1,91 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
 using Xamarin.Forms;
 
 namespace Calc_chalange
 {
     public partial class MainPage : ContentPage
     {
+        private int correctAnswers = 0;
+        private int wrongAnswers = 0;
         
+        private int totalQuestions = 2; // Anzahl der Fragen für die Übung
+        private Random random = new Random();
+
         public MainPage()
         {
             InitializeComponent();
-            GenerateRows();
+            GenerateQuestion();
+            
         }
 
-        private void GenerateRows()
+        private void GenerateQuestion()
         {
-            List<TaskRow> rows = new List<TaskRow>();
+            int num1 = random.Next(1, 100);
+            int num2 = random.Next(1, 100);
+            int correctAnswer = num1 + num2;
 
-            Random random = new Random();
-            for (int i = 0; i < 10; i++)
+            questionLabel.Text = $"{num1} + {num2} = ?";
+            correctAnswerLabel.Text = correctAnswer.ToString();
+            correctAnswerLabel.IsVisible = false;
+            
+
+        }
+
+        private void CheckAnswer(object sender, EventArgs e)
+        {
+            int userAnswer;
+            if (int.TryParse(answerEntry.Text, out userAnswer))
             {
-                int firstNumber = random.Next(1, 11);
-                int secondNumber = random.Next(1, 11);
+                int correctAnswer = int.Parse(correctAnswerLabel.Text);
+                if (userAnswer == correctAnswer)
+                {
+                    DisplayAlert("Richtig", "Gut gemacht!", "OK");
+                    correctAnswers++;
+                }
+                else
+                {
+                    DisplayAlert("Falsch", $"Die richtige Antwort ist {correctAnswer}", "OK");
+                    wrongAnswers++;
+                }
 
-                rows.Add(new TaskRow { FirstNumber = firstNumber, SecondNumber = secondNumber });
+                if (correctAnswers + wrongAnswers < totalQuestions)
+                {
+                    GenerateQuestion();
+                    answerEntry.Text = "";
+                    correctAnswerLabel.IsVisible = false;
+                }
+                else
+                {
+                    // Alle Aufgaben wurden beantwortet, zeige die Zusammenfassung
+                    ShowSummary();
+                }
             }
-
-            taskListView.ItemsSource = rows;
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
+        private void ShowSummary()
         {
-            // Handle the button click event here if needed
+            questionLabel.Text = "Übung abgeschlossen!";
+            correctAnswerLabel.Text = $"Richtig beantwortet: {correctAnswers}/{totalQuestions}";
+            summaryLabel.Text = $"Falsch beantwortet: {wrongAnswers}/{totalQuestions}";
+            correctAnswerLabel.IsVisible = true;
+            summaryLabel.IsVisible = true;
+            restartButton.IsVisible = true;
+            
+
+
         }
+
+        private void RestartExercise(object sender, EventArgs e)
+        {
+            correctAnswers = 0;
+            wrongAnswers = 0;
+            correctAnswerLabel.IsVisible = false;
+            summaryLabel.IsVisible = false;
+            
+            GenerateQuestion();
+            restartButton.IsVisible = true;
+        }
+
+
     }
-
-    public class TaskRow
-    {
-        public int FirstNumber { get; set; }
-        public int SecondNumber { get; set; }
-    }
-
-
-
-
-
-
-
 }
-    
-
-    
-

@@ -1,0 +1,15 @@
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\bin\Debug\netstandard2.0\Calc_challenge.deps.json
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\bin\Debug\netstandard2.0\Calc_challenge.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\bin\Debug\netstandard2.0\ref\Calc_challenge.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\bin\Debug\netstandard2.0\Calc_challenge.pdb
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.csproj.AssemblyReference.cache
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.AssemblyInfoInputs.cache
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.AssemblyInfo.cs
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.csproj.CoreCompileInputs.cache
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\refint\Calc_challenge.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange\obj\Debug\netstandard2.0\Calc_challenge.pdb

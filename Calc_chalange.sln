@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_chalange.Android", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_chalange.iOS", "Calc_chalange.iOS\Calc_chalange.iOS.csproj", "{940BFCD0-B003-4133-93BF-372105DB4326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_chalange", "Calc_chalange\Calc_chalange.csproj", "{3E4BB5CF-B667-40BE-9A53-D6488888DB55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc_challenge", "Calc_chalange\Calc_challenge.csproj", "{3E4BB5CF-B667-40BE-9A53-D6488888DB55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

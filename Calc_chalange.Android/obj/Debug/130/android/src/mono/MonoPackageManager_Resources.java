@@ -3,7 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Calc_chalange.Android.dll" comes first in this list. */
 		"Calc_chalange.Android.dll",
-		"Calc_chalange.dll",
+		"Calc_challenge.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

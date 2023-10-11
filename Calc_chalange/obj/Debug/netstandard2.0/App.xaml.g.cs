@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Calc_chalange.App.xaml", "App.xaml", typeof(global::Calc_chalange.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Calc_challenge.App.xaml", "App.xaml", typeof(global::Calc_chalange.App))]
 
 namespace Calc_chalange {
     

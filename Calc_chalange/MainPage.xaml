@@ -4,17 +4,24 @@
              x:Class="Calc_chalange.MainPage"
              BackgroundColor="DarkBlue">
 
-    <ListView x:Name="taskListView">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <ViewCell>
-                    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
-                        <Button Text="{Binding FirstNumber}" TextColor="White" BackgroundColor="#000080" Clicked="Button_Clicked" />
-                        <Button Text="{Binding SecondNumber}" TextColor="White" BackgroundColor="#000080" Clicked="Button_Clicked" />
-                    </StackLayout>
-                </ViewCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+
+    <ContentPage.Content>
+        
+        <StackLayout Padding="20">
+
+            <Label x:Name="questionLabel" Text="Frage" FontSize="24" TextColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="answerEntry" Placeholder="Ihre Antwort" Keyboard="Numeric" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Button Text="Überprüfen" Clicked="CheckAnswer" BackgroundColor="DarkBlue" TextColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Label x:Name="correctAnswerLabel" IsVisible="False" TextColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Label x:Name="summaryLabel" IsVisible="False" FontSize="20" TextColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Button x:Name="restartButton" Text="Neu starten" Clicked="RestartExercise" IsVisible="False" BackgroundColor="DarkBlue" TextColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+
+       
+
 
 </ContentPage>

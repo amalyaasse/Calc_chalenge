@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FwjgyHhoA1ujnuP0K3+mp2XLPM3qgVZ/IPwEkGZbgmeXbRzyLwKpLuH7OxZNru17nyv3KYoYaoQhL1XbxlcqXA==",
+  "dgSpecHash": "JqW2ZbHsDDEbjXYZkJjyaljPrhnApdNKx/cV5XyVG0xKo8vtDRi4Coa5ALBRrqVdGhsiWBoRkZ+wkl58xZevmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_chalange.csproj",
+  "projectFilePath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_challenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asam1620\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Asam1620\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

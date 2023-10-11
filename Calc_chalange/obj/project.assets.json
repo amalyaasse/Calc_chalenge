@@ -547,9 +547,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_chalange.csproj",
-      "projectName": "Calc_chalange",
-      "projectPath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_chalange.csproj",
+      "projectUniqueName": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_challenge.csproj",
+      "projectName": "Calc_challenge",
+      "projectPath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_challenge.csproj",
       "packagesPath": "C:\\Users\\Asam1620\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,12 +1,3 @@
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_chalange.Android.dll
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_chalange.Android.pdb
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange.apk
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange.aab
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange-Signed.aab
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange-Signed.apk
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange-Signed.apk.idsig
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_chalange.dll
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_chalange.pdb
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\build.props
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\adb.props
@@ -41,6 +32,13 @@ C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\R.txt
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\R.cs.flag
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\Calc_chalange.Android.csproj.CoreCompileInputs.cache
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_chalange.Android.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_chalange.Android.pdb
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange.apk
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange.aab
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange-Signed.aab
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange-Signed.apk
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\com.companyname.calc_chalange-Signed.apk.idsig
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\Calc_chalange.Android.csproj.CopyComplete
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\Calc_chalange.Android.dll
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\Calc_chalange.Android.pdb
@@ -66,8 +64,6 @@ C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\resolvedassemblies.hash
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Calc_chalange.Android.dll
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Calc_chalange.Android.pdb
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Calc_chalange.dll
-C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Calc_chalange.pdb
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\FormsViewGroup.pdb
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Java.Interop.dll
@@ -636,3 +632,7 @@ C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_challenge.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\bin\Debug\Calc_challenge.pdb
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Calc_challenge.dll
+C:\Users\Asam1620\source\repos\Calc_chalange\Calc_chalange.Android\obj\Debug\130\android\assets\Calc_challenge.pdb

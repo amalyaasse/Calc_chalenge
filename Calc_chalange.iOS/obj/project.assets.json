@@ -171,7 +171,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Calc_chalange/1.0.0": {
+      "Calc_challenge/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -179,10 +179,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         }
       }
     },
@@ -356,7 +356,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Calc_chalange/1.0.0": {
+      "Calc_challenge/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -364,10 +364,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         }
       }
     },
@@ -541,7 +541,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Calc_chalange/1.0.0": {
+      "Calc_challenge/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -549,10 +549,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         }
       }
     },
@@ -726,7 +726,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Calc_chalange/1.0.0": {
+      "Calc_challenge/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -734,10 +734,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         }
       }
     },
@@ -911,7 +911,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Calc_chalange/1.0.0": {
+      "Calc_challenge/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -919,10 +919,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calc_chalange.dll": {}
+          "bin/placeholder/Calc_challenge.dll": {}
         }
       }
     }
@@ -1233,15 +1233,15 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "Calc_chalange/1.0.0": {
+    "Calc_challenge/1.0.0": {
       "type": "project",
-      "path": "../Calc_chalange/Calc_chalange.csproj",
-      "msbuildProject": "../Calc_chalange/Calc_chalange.csproj"
+      "path": "../Calc_chalange/Calc_challenge.csproj",
+      "msbuildProject": "../Calc_chalange/Calc_challenge.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Calc_chalange >= 1.0.0",
+      "Calc_challenge >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
     ]
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_chalange.csproj": {
-              "projectPath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_chalange.csproj"
+            "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_challenge.csproj": {
+              "projectPath": "C:\\Users\\Asam1620\\source\\repos\\Calc_chalange\\Calc_chalange\\Calc_challenge.csproj"
             }
           }
         }
