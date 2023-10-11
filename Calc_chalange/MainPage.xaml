@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calc_chalange.MainPage"
+             BackgroundColor="DarkBlue">
+
+    <ListView x:Name="taskListView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                        <Button Text="{Binding FirstNumber}" TextColor="White" BackgroundColor="#000080" Clicked="Button_Clicked" />
+                        <Button Text="{Binding SecondNumber}" TextColor="White" BackgroundColor="#000080" Clicked="Button_Clicked" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>
